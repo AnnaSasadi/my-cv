@@ -60,3 +60,26 @@ body {
 .font1 {
 	font-family: 'Anton', sans-serif;
 }
+
+#mydiv {
+	color: #bdcebe;
+	border: 10px solid currentcolor;
+	border-style: double;
+    border-width: thick;
+	margin-top: 100px;
+    margin-right: 600px;
+    margin-left: 80px;
+}
+
+
+
+#mydiv1 {
+	margin-left: 25px;
+}
+
+#mydiv2 {
+	margin-right: 10px;
+}
+#mydiv3 {
+	margin-right: 10px
+}
