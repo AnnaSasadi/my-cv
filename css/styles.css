@@ -75,6 +75,7 @@ body {
 
 #mydiv1 {
 	margin-left: 25px;
+	margin-right: 10px;
 }
 
 #mydiv2 {
@@ -90,4 +91,8 @@ body {
 
 #mydiv5 {
 	margin-right: 10px;
+}
+
+#mydiv6{
+	margin-left: 160px;
 }
