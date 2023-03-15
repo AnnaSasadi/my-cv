@@ -61,7 +61,8 @@ body {
 	font-family: 'Anton', sans-serif;
 }
 
-#mydiv {
+
+.title {
 	color: #bdcebe;
 	border: 10px solid currentcolor;
 	border-style: double;
